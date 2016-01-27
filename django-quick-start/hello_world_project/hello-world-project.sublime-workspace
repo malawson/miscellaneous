@@ -1,0 +1,1601 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"section	Tag"
+			],
+			[
+				"tmep",
+				"template"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"ur",
+				"urlpatterns"
+			],
+			[
+				"helo",
+				"hello_world_project"
+			],
+			[
+				"vie",
+				"views"
+			],
+			[
+				"tem",
+				"templist"
+			],
+			[
+				"bl",
+				"blocktrans	blocktrans"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"ran",
+				"random1"
+			],
+			[
+				"ra",
+				"random1"
+			],
+			[
+				"ram",
+				"random1"
+			],
+			[
+				"choi",
+				"choice"
+			],
+			[
+				"nu",
+				"numbers"
+			],
+			[
+				"regin",
+				"regions"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"IN",
+				"INSERT"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"Va",
+				"VALUES"
+			],
+			[
+				"T",
+				"TEXT"
+			],
+			[
+				"s",
+				"sqlite3"
+			],
+			[
+				"class",
+				"MIDDLEWARE_CLASSES"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"out",
+				"output_file"
+			],
+			[
+				"oupu",
+				"output_PDF"
+			],
+			[
+				"output",
+				"output_file_name"
+			],
+			[
+				"de",
+				"degrees"
+			],
+			[
+				"pa",
+				"page_num"
+			],
+			[
+				"inp",
+				"input_file"
+			],
+			[
+				"Pdfi",
+				"PdfFileWriter"
+			],
+			[
+				"outpu",
+				"output_file_name"
+			],
+			[
+				"Pdf",
+				"PdfFileReader"
+			],
+			[
+				"fil",
+				"filesavebox"
+			],
+			[
+				"rot",
+				"rotate_choices"
+			],
+			[
+				"inpu",
+				"input_file_name"
+			],
+			[
+				"my",
+				"my_price"
+			],
+			[
+				"ht",
+				"html_text"
+			],
+			[
+				"iss",
+				"issues_list"
+			],
+			[
+				"github",
+				"github_issues"
+			],
+			[
+				"is",
+				"issues_dict"
+			],
+			[
+				"git",
+				"github_labels"
+			],
+			[
+				"gith",
+				"github_issues"
+			],
+			[
+				"en",
+				"encodestring"
+			],
+			[
+				"bas",
+				"base64"
+			],
+			[
+				"gh",
+				"gh_url"
+			],
+			[
+				"dict",
+				"dictionary"
+			],
+			[
+				"get",
+				"get_issues"
+			],
+			[
+				"list",
+				"list_issues"
+			],
+			[
+				"htl",
+				"html_page"
+			],
+			[
+				"star",
+				"start_index"
+			],
+			[
+				"st",
+				"start_tag"
+			],
+			[
+				"html",
+				"html_page"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"lis",
+				"list_dir"
+			],
+			[
+				"D",
+				"DEPEND"
+			],
+			[
+				"ins",
+				"install"
+			],
+			[
+				"confi",
+				"configure_ldap"
+			],
+			[
+				"upd",
+				"update_image"
+			],
+			[
+				"con",
+				"configure_git_repos"
+			],
+			[
+				"ena",
+				"enable_sevices"
+			],
+			[
+				"conf",
+				"configure_ldap"
+			],
+			[
+				"set",
+				"set_configs"
+			],
+			[
+				"im",
+				"img_root"
+			],
+			[
+				"meeu",
+				"meetup-local"
+			],
+			[
+				"sab",
+				"sabayon-weekly"
+			],
+			[
+				"c",
+				"conf"
+			],
+			[
+				"B",
+				"BUILD_RESOURCES_PATH"
+			],
+			[
+				"gar",
+				"grafana-server"
+			],
+			[
+				"G",
+				"GRAFANA_SERVER_PIDFILE"
+			],
+			[
+				"grafa",
+				"grafana-server"
+			],
+			[
+				"GR",
+				"GRAFANA_SERVER_PID_DIR"
+			],
+			[
+				"GRA",
+				"GRAFANA_SERVER_DIR"
+			],
+			[
+				"grafana",
+				"grafana"
+			],
+			[
+				"I",
+				"INSTALL_DIR"
+			],
+			[
+				"SR",
+				"SRC_URI"
+			],
+			[
+				"R",
+				"RDEPEND"
+			],
+			[
+				"src",
+				"SRC_URI"
+			],
+			[
+				"repo",
+				"repository"
+			],
+			[
+				"senu",
+				"sensu_client"
+			],
+			[
+				"sen",
+				"sensu_client"
+			],
+			[
+				"sensu",
+				"sensu_client"
+			],
+			[
+				"sens",
+				"sensu_client"
+			],
+			[
+				"rol",
+				"roleslist"
+			],
+			[
+				"ha",
+				"HANDLERS_DIR"
+			],
+			[
+				"user",
+				"user"
+			],
+			[
+				"gem",
+				"gem_package"
+			],
+			[
+				"sensu-es",
+				"sensu-extension"
+			],
+			[
+				"v",
+				"ver"
+			],
+			[
+				"ser",
+				"sensu_server_pkg_list"
+			],
+			[
+				"in",
+				"install"
+			],
+			[
+				"pac",
+				"package_name"
+			],
+			[
+				"each",
+				"each_index"
+			],
+			[
+				"se",
+				"sensu_server_pkgs_version"
+			],
+			[
+				"pack",
+				"package"
+			],
+			[
+				"Se",
+				"SENSU_SERVER_EXEC"
+			],
+			[
+				"SENSU_s",
+				"SENSU_SERVER_EXEC"
+			],
+			[
+				"S",
+				"SENSU-SERVER"
+			],
+			[
+				"L",
+				"LOG_DIR"
+			],
+			[
+				"u",
+				"USER"
+			],
+			[
+				"Lo",
+				"LOG_DIR"
+			],
+			[
+				"H",
+				"HANDLERS_DIR"
+			],
+			[
+				"Pl",
+				"PLUGINS_DIR"
+			],
+			[
+				"E",
+				"EXTENSION_DIR"
+			],
+			[
+				"LOG",
+				"LOG_DIR"
+			],
+			[
+				"SE",
+				"SENSU_SERVER_PIDFILE"
+			],
+			[
+				"C",
+				"CONFIG_DIR"
+			],
+			[
+				"P",
+				"PKG_NAME"
+			],
+			[
+				"pk",
+				"PKG_NAME"
+			],
+			[
+				"stat",
+				"statsd"
+			],
+			[
+				"metup",
+				"meetup_apache"
+			],
+			[
+				"create_",
+				"create_if_missing"
+			],
+			[
+				"GRAP",
+				"graphite_server"
+			],
+			[
+				"equo",
+				"equo-update"
+			],
+			[
+				"CLE",
+				"cleanup"
+			],
+			[
+				"dele",
+				"delete_git_branch"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\nNOTES FOR FIX_RELATIT.PY\n\n\n\n\nget_issues (org, repo):\n \"\"\" this gets all issues under relatit/relatit repository in json and returns a dictionary of these values \"\"\"\n\n\njson_string = '{\"first_name\": \"Guido\", \"last_name\":\"Rossum\"}'\nimport json\nparsed_json = json.loads(json_string)\n\n\nreturn json.loads (curl result)\n\n\n\nlist_issues (label, number=None, title=None):\n==> MAKE SURE LABEL ARG IS REQUIED, THE OTHER 2 ARE OPTIONAL, HOWTO IN PYTHON? (label, *, *??)\n\n\ndef github_request(endpoint, data=None, query=None):\n    gh_url = \"https://github.dev.meetup.com/api/v3/\" + endpoint\n    if query:\n        gh_url = gh_url + \"?\" + urllib.urlencode(query)\n\n    token = git_config(\"meetup.github.token\")\n    if not token:\n        err(\"Couldn't find a token set in meetup.github.token...please get a personal access token from https://github.dev.meetup.com/settings/applications and then `git config --add meetup.github.token YOUR_TOKEN\")\n    headers = {'Authorization': 'token {token}'.format(token=token)}\n\n    if data:\n        headers['Content-Type'] = 'application/json'\n        headers['charset'] = 'utf-8'\n        data = json.dumps(data)\n\n    request = urllib2.Request(gh_url, data, headers)\n    f = urllib2.urlopen(request)\n    return json.loads(f.read())\n\n\n\n\n\"\"\" list_issues by title, number, and label, by parsing dictionary returned from get_issues \"\"\"\nHere are howtos on parsing dicts.\nRead page 102 in book on dictionary\n\nhttps://yuji.wordpress.com/2008/05/14/python-basics-of-python-dictionary-and-looping-through-them/\n\n\n\nif __name__ == '__main__':\n	parser = OptionParser()\n	parser.add_option(\"-x\")\n\n\n\n\nrequest = urllib2.Request(\"http://api.foursquare.com/v1/user\")\n# You need the replace to handle encodestring adding a trailing newline \n# (https://docs.python.org/2/library/base64.html#base64.encodestring)\nbase64string = base64.encodestring('%s:%s' % (username, password)).replace('malawson\\n', 'Azekpona5)\nrequest.add_header(\"Authorization\", \"Basic %s\" % base64string)   \nresult = urllib2.urlopen(request)\n\n\n\n\n\nTHIS GIVES ME ALL ISSUES UNDER relatit/relatit\ncurl -i -u malawson https://api.github.com/repos/relatit/relatit/issues\n\n\"labels_url\": \"https://api.github.com/repos/relatit/relatit/issues/1066/labels{/name}\"\n\n\n\n\n\n\n#######\n\nuse this github api client rather \n\nhttps://github.com/dustin/py-github\n\nprototype it\n\n\n###############\n\nThe UI for Issues on GitHub aims to provide ‘just enough’ workflow while staying out of your way. With the GitHub Issues API, you can pull data out or create issues from other tools to create a workflow that works for your team.\n\nJust like github.com, the API provides a few methods to view issues for the authenticated user. To see all your issues, call GET /issues:\n\n$ curl -i -H 'Authorization: token 5199831f4dd3b79e7c5b7e0ebe75d67aa66e79d4' \\\n    https://api.github.com/issues\n\nTo get only the issues under one of your GitHub organizations, call GET /orgs/<org>/issues:\n\n$ curl -i -H 'Authorization: token 5199831f4dd3b79e7c5b7e0ebe75d67aa66e79d4' \\\n    https://api.github.com/orgs/rails/issues\n\nWe can also get all the issues under a single repository:\n\n$ curl -i https://api.github.com/repos/rails/rails/issues\n",
+			"settings":
+			{
+				"buffer_size": 3163,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n\n\nimport sqlite3\n\npeople_values = (\n	('jean-baptiste zorg', 'human', 122),\n	(\"Ak'5\", 'Mangalore', -5)\n\n)\n\nwith sqlite3.connect('test_database.db') as connection:\n	c = connection.cursor()\n	c.execute(\"drop table if exists People\")\n	c.execute(\"create table People (Name TEXT, Species TEXT, IQ INT)\")\n\n	c.executemany(\"insert into People VALUES(?,?,?)\", people_values)\n	c.execute (\"select Name, IQ from People where Species = 'human'\")\n\n	for row in c.fetchall():\n		print row\n\n\n\n\n",
+			"file": "/Users/arnaud/testinput.py",
+			"file_size": 470,
+			"file_write_time": 130910049670000000,
+			"settings":
+			{
+				"buffer_size": 475,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/arnaud/pythontutorial.py",
+			"settings":
+			{
+				"buffer_size": 2808,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/arnaud/github_repos/miscellaneous/sql/sqla.py",
+			"settings":
+			{
+				"buffer_size": 179,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/arnaud/github_repos/miscellaneous/sql/sqlb.py",
+			"settings":
+			{
+				"buffer_size": 1024,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/arnaud/github_repos/miscellaneous/sql/_sql.py",
+			"settings":
+			{
+				"buffer_size": 2026,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/arnaud/github_repos/miscellaneous/sql/populate_db.py",
+			"settings":
+			{
+				"buffer_size": 435,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/arnaud/github_repos/miscellaneous/sql/read_from_db.py",
+			"settings":
+			{
+				"buffer_size": 491,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/arnaud/github_repos/miscellaneous/pdb/pdb_test1.py",
+			"settings":
+			{
+				"buffer_size": 506,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/arnaud/github_repos/miscellaneous/frontend/index.html",
+			"settings":
+			{
+				"buffer_size": 583,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/arnaud/github_repos/miscellaneous/frontend/main.css",
+			"settings":
+			{
+				"buffer_size": 67,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/arnaud/github_repos/miscellaneous/client-side/_test.py",
+			"settings":
+			{
+				"buffer_size": 659,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/arnaud/knife_status_bot.py",
+			"settings":
+			{
+				"buffer_size": 1883,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hello_world_project/urls.py",
+			"settings":
+			{
+				"buffer_size": 910,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hello_world/urls.py",
+			"settings":
+			{
+				"buffer_size": 216,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hello_world_project/settings.py",
+			"settings":
+			{
+				"buffer_size": 2876,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hello_world/views.py",
+			"settings":
+			{
+				"buffer_size": 618,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "$(function() {\n	console.log(\"whee!\")\n});",
+			"file": "main.js",
+			"file_size": 40,
+			"file_write_time": 130962852710000000,
+			"settings":
+			{
+				"buffer_size": 40,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/betterhello.html",
+			"settings":
+			{
+				"buffer_size": 162,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/index.html",
+			"settings":
+			{
+				"buffer_size": 291,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/main.js",
+			"settings":
+			{
+				"buffer_size": 40,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "ds2 ~ # cat /etc/mysql/my.cnf\n# /etc/mysql/my.cnf: The global mysql configuration file.\n# $Header: /var/cvsroot/gentoo-x86/dev-db/mysql/files/my.cnf-4.1-r1,v 1.3 2006/02/01 20:25:56 vivo Exp $\n\n# The following options will be passed to all MySQL clients\n[client]\n#password					= your_password\nport						= 3306\nsocket						= /var/run/mysqld/mysqld.sock\ncharacter-sets-dir=latin1\ndefault-character-set=latin1\n\n[mysql]\ncharacter-sets-dir=latin1\ndefault-character-set=latin1\n\n[mysqladmin]\ncharacter-sets-dir=latin1\ndefault-character-set=latin1\n\n[mysqlcheck]\ncharacter-sets-dir=latin1\ndefault-character-set=latin1\n\n[mysqldump]\ncharacter-sets-dir=latin1\ndefault-character-set=latin1\n\n[mysqlimport]\ncharacter-sets-dir=latin1\ndefault-character-set=latin1\n\n[mysqlshow]\ncharacter-sets-dir=latin1\ndefault-character-set=latin1\n\n[myisamchk]\ncharacter-sets-dir=latin1\nset-variable    = key_buffer=128M\nset-variable    = sort_buffer=128M\nset-variable    = read_buffer=2M\nset-variable    = write_buffer=2M\n\n[myisampack]\ncharacter-sets-dir=latin1\n\n# use [safe_mysqld] with mysql-3\n[mysqld_safe]\nerr-log						= /var/log/mysql/mysql.err\n\n# add a section [mysqld-4.1] or [mysqld-5.0] for specific configurations.\n[mysqld]\ninit-connect='SET NAMES latin1'\ncharacter-set-server			= latin1\ndefault-character-set			= latin1\nuser 					= mysql\nport 					= 3306\nsocket 					= /var/run/mysqld/mysqld.sock\npid-file 				= /var/run/mysqld/mysqld.pid\nlog-error 				= /var/log/mysql/mysqld.err\nbasedir 				= /usr\ndatadir 				= /var/lib/mysql\nskip-external-locking\n#skip-innodb\nkey_buffer 				= 768M\nmax_allowed_packet 			= 16M\ntable_cache 				= 96\nsort_buffer_size 			= 6M\nnet_buffer_length 			= 8K\nread_buffer_size 			= 4M\nmyisam_sort_buffer_size 		= 64M\ntmp_table_size				= 48M\nlanguage 				= /usr/share/mysql/english\nwait_timeout				= 300\nthread_cache				= 30\nmyisam_max_sort_file_size		= 10G\nmyisam_max_extra_sort_file_size		= 10G\nmyisam_repair_threads			= 4\nmax_heap_table_size			= 96M\nmax_connections				= 200\nthread_concurrency			= 4\nft_min_word_len				= 2\nquery_cache_size			= 0\nquery_cache_type			= 0\n\n\n#security:\n#using \"localhost\" in connects use sockets by default\n#skip-networking\n#bind-address				= 127.0.0.1\n\nlog-bin\nserver-id 					= 1\n\n# replication\n#master-host     = rs.dev.meetup.com\n#master-user     = dev_replicate\n#master-password = Etacilper3\n#master-port     = 3306\n#skip-slave-start\n\n\n# Point the following paths to different dedicated disks\ntmpdir 						= /tmp/\n#log-update 				= /path-to-dedicated-directory/hostname\n\n#innodb_data_home_dir = /var/lib/mysql\n#innodb_data_file_path = ibdata1:40000M:autoextend\n#innodb_autoextend_increment = 200M\n### You can set .._buffer_pool_size up to 50 - 80 %\n### of RAM but beware of setting memory usage too high\n#innodb_buffer_pool_size = 768M\n#innodb_additional_mem_pool_size = 32M\n### Set .._log_file_size to 25 % of buffer pool size\n#innodb_log_group_home_dir = /var/lib/mysql\n#innodb_log_arch_dir = /var/lib/mysql\n#innodb_log_file_size = 500M\n#innodb_log_buffer_size = 12M\n#innodb_flush_log_at_trx_commit = 2\n#innodb_flush_method = O_DIRECT\n#innodb_lock_wait_timeout = 50\n#transaction-isolation = READ-COMMITTED\n\n\n# you need debug use flag enabled to use this ones.\n# if needed uncomment them, start the server and issue\n# #tail -f /tmp/mysqld.sql /tmp/mysqld.trace\n# this will show you *exactly* what's appening in your server ;)\n\n#log						= /tmp/mysqld.sql\n#gdb\n#debug						= d:t:i:o,/tmp/mysqld.trace\n#one-thread\n\n# Uncomment the following if you are using BDB tables\n#bdb_cache_size				= 4M\n#bdb_max_lock				= 10000\n\n# The following is the InnoDB configuration\n# if you wish to disable innodb instead\n# uncomment just the next line\n#skip-innodb\n#\n# the rest of the innodb config follows:\n# don't eat too much memory, we're trying to be safe on 64Mb boxes.\n# you might want to bump this up a bit on boxes with more RAM\n#innodb_buffer_pool_size		= 16M\n# this is the default, increase if you have lots of tables\n#innodb_additional_mem_pool_size	= 2M\n#\n# i'd like to use /var/lib/mysql/innodb, but that is seen as a database :-(\n# and upstream wants things to be under /var/lib/mysql/, so that's the route\n# we have to take for the moment\n#innodb_data_home_dir		= /var/lib/mysql/\n#innodb_log_arch_dir		= /var/lib/mysql/\n#innodb_log_group_home_dir	= /var/lib/mysql/\n# you may wish to change this size to be more suitable for your system\n# the max is there to avoid run-away growth on your machine\n#innodb_data_file_path		= ibdata1:10M:autoextend\n# we keep this at around 25% of of innodb_buffer_pool_size\n# sensible values range from 1MB to (1/innodb_log_files_in_group*innodb_buffer_pool_size)\n#innodb_log_file_size		= 5M\n# this is the default, increase if you have very large transactions.\n#innodb_log_buffer_size		= 8M\n# this is the default, and won't hurt you.\n# you shouldn't need to tweak it.\n#set-variable				= innodb_log_files_in_group=2\n# see the innodb config docs, the other options are not always safe\n#innodb_flush_log_at_trx_commit	= 1\n#innodb_lock_wait_timeout	= 50\n\n\n[mysqldump]\nquick\nmax_allowed_packet 			= 16M\n\n[mysql]\n# Remove the next comment character if you are not familiar with SQL\n#safe-updates\n\n[isamchk]\nkey_buffer 				= 20M\nsort_buffer_size 			= 20M\nread_buffer 				= 2M\nwrite_buffer 				= 2M\n\n[myisamchk]\nkey_buffer 				= 20M\nsort_buffer_size 			= 20M\nread_buffer 				= 8M\nwrite_buffer 				= 8M\n\n[mysqlhotcopy]\ninteractive-timeout			= 300\n\n#vim: set tabstop=4 :\n#vim: set shiftwidth=4 :\n",
+			"settings":
+			{
+				"buffer_size": 5453,
+				"line_ending": "Unix",
+				"name": "ds2 ~ # cat /etc/mysql/my.cnf"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "Packa",
+		"selected_items":
+		[
+			[
+				"Packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Build: New Build System"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/arnaud/github_repos/miscellaneous/django-quick-start",
+		"/Users/arnaud/github_repos/miscellaneous/django-quick-start/hello_world_project",
+		"/Users/arnaud/github_repos/miscellaneous/django-quick-start/hello_world_project/hello_world",
+		"/Users/arnaud/github_repos/miscellaneous/django-quick-start/hello_world_project/hello_world_project",
+		"/Users/arnaud/github_repos/miscellaneous/django-quick-start/hello_world_project/static",
+		"/Users/arnaud/github_repos/miscellaneous/django-quick-start/hello_world_project/templates"
+	],
+	"file_history":
+	[
+		"/Users/arnaud/github_repos/miscellaneous/django-quick-start/hello_world_project/hello_world/urls.py",
+		"/Users/arnaud/github_repos/miscellaneous/django-quick-start/hello_world_project/hello_world_project/urls.py",
+		"/Users/arnaud/github_repos/miscellaneous/django-quick-start/hello_world_project/hello_world_project/settings.py",
+		"/Users/arnaud/github_repos/miscellaneous/django-quick-start/hello_world_project/hello_world/views.py",
+		"/Users/arnaud/github_repos/miscellaneous/django-quick-start/hello_world_project/hello-world-project.sublime-project",
+		"/Users/arnaud/RELATIT/fix_relatit.py",
+		"/Users/arnaud/pyhtontutorial.py",
+		"/Users/arnaud/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/arnaud/Documents/Scripts/sensu-serverOPENRC_initscript.sh",
+		"/Users/arnaud/Documents/DEVimagebuild_scripts/build_meetup_sabayon_base.sh",
+		"/Users/arnaud/Documents/DEVimagebuild_scripts/basedevimg_build.sh",
+		"/Users/arnaud/Documents/Scripts/chef-clientinit.sh",
+		"/Users/arnaud/Documents/Chef-Recipes/graphite-server-recipe.rb",
+		"/Users/arnaud/bacula-dir.conf",
+		"/Users/arnaud/Desktop/recipes_redis.rb",
+		"/Users/arnaud/Documents/DEVimagebuild_scripts/equo_provider.rb",
+		"/Users/arnaud/Documents/bb_client_recipe.rb",
+		"/Users/arnaud/Documents/Chef-Recipes/sabayon_update_recipe.rb",
+		"/Users/arnaud/Documents/CONF_FILES/qa.keepalived.conf",
+		"/Users/arnaud/Documents/DEVimagebuild_scripts/NEWupgrade_olddevboximg.sh",
+		"/Users/arnaud/Documents/DEVimagebuild_scripts/Ebuilds/meetup:mod_wsgi-4.3.0.ebuild.sh",
+		"/Users/arnaud/Documents/DEVimagebuild_scripts/Ebuilds/net-misc:statsd-0.7.2.ebuild.sh",
+		"/Users/arnaud/Documents/Chef-Recipes/initstatsd_localdev.sh",
+		"/Users/arnaud/Documents/Chef-Recipes/Ebuilds/meetup:mod_wsgi-4.3.0.ebuild",
+		"/Users/arnaud/Desktop/portage.rb",
+		"/Users/arnaud/Documents/DEVimagebuild_scripts/NEW_mup_test_newdevboximage.sh",
+		"/Users/arnaud/Documents/DEVimagebuild_scripts/DevboxDeployProcess.txt",
+		"/Users/arnaud/Documents/DEVimagebuild_scripts/noprompt_backup_baculakeys.sh",
+		"/Users/arnaud/Documents/DEVimagebuild_scripts/restart_chef_client_remotely.sh",
+		"/Users/arnaud/Documents/DEVimagebuild_scripts/configure_new_dboxuser.sh",
+		"/Users/arnaud/Desktop/sharded_redis.rb",
+		"/Users/arnaud/Documents/DEVimagebuild_scripts/equo_provider_backup.rb",
+		"/Users/arnaud/Documents/DEVimagebuild_scripts/encrypt_bacula_client_backups.sh",
+		"/Users/arnaud/Documents/DEVimagebuild_scripts/add_baculaclientkeys_to_bacula_seckeys_repo.sh",
+		"/Users/arnaud/Documents/DEVimagebuild_scripts/mup_new_dbox.sh",
+		"/Users/arnaud/Documents/DEVimagebuild_scripts/install_chefclient.sh"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"static",
+			"debug",
+			"meetup",
+			"m",
+			"meetup",
+			"MU_ROOT_DIR",
+			"cat",
+			"img_roo",
+			"img_r",
+			"apache",
+			"libtes",
+			"deptes",
+			"conf up",
+			"yes 3",
+			"Meetup_proxy",
+			"kernel",
+			"upgrade",
+			"server",
+			"api",
+			"SENSU_API",
+			"mutator",
+			"plugin",
+			"handler",
+			"/usr/local/sensu-server/etc",
+			"#{sensu_conf_home}",
+			"sensu-server",
+			"SENSU_SERVER",
+			"wait",
+			"handler",
+			"pid_gre",
+			"options",
+			"echo_success",
+			"sensu_pat",
+			"local",
+			"/ ",
+			"CONFIG_PROTECT",
+			"+",
+			",",
+			"PACKAGES",
+			"GHE",
+			"capp1",
+			"GHE",
+			"DevDefaultJob",
+			"nfs",
+			"3600",
+			"/usr/lib64/systemd/system/NetworkManager.service",
+			"set-ui",
+			"apache",
+			",",
+			".dev.meetup.com,",
+			"wsgi",
+			"log",
+			"system",
+			"YES",
+			"yes",
+			"bashrc",
+			"sed",
+			"166918632",
+			"'\\n'",
+			"\\n",
+			"brandon ",
+			"kdm",
+			"hostn",
+			"node",
+			"attri",
+			"/etc/entropy/packages/sets/devboxset-ui",
+			"update",
+			"devboxset",
+			"reins",
+			",",
+			"system",
+			"devbox",
+			"purge_devboxset",
+			"_post",
+			"\\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"SENSU_CLIENT",
+			"#{node['sensu_server']['conf_dir']}",
+			"/usr/local/sensu-server/etc/sensu",
+			"sensu-api",
+			"SENSU_API",
+			"",
+			"DEVBOXES",
+			"",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 15,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/arnaud/testinput.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								475,
+								475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/arnaud/pythontutorial.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1464,
+								1464
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/arnaud/github_repos/miscellaneous/sql/sqla.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/arnaud/github_repos/miscellaneous/sql/sqlb.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								293,
+								293
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/arnaud/github_repos/miscellaneous/sql/_sql.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1988,
+								1988
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 9.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/arnaud/github_repos/miscellaneous/sql/populate_db.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/arnaud/github_repos/miscellaneous/sql/read_from_db.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								68
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/arnaud/github_repos/miscellaneous/pdb/pdb_test1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntaxes/Python Django.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/arnaud/github_repos/miscellaneous/frontend/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								583,
+								583
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/arnaud/github_repos/miscellaneous/frontend/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/arnaud/github_repos/miscellaneous/client-side/_test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								656,
+								656
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/arnaud/knife_status_bot.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1009,
+								1009
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "hello_world_project/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								863,
+								863
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "hello_world/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "hello_world_project/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2876,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2869,
+								2869
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 774.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "hello_world/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "templates/betterhello.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "static/main.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 40,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5453,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4757,
+								4757
+							]
+						],
+						"settings":
+						{
+							"auto_name": "ds2 ~ # cat /etc/mysql/my.cnf",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hello-world-project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Scripts/sabayon_sensu_client-recipe.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
